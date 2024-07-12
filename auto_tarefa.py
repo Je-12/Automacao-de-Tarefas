@@ -1,3 +1,6 @@
+#Porjeto: Automação de Tarefas - Python
+#Ministrado por : Hashtag Programação :
+
 # Passo a passo do projeto
 # Passo 1: Entrar no sistema da empresa 
     # https://dlp.hashtagtreinamentos.com/python/intensivao/login
